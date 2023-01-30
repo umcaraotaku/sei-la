@@ -1,0 +1,7 @@
+void main () {
+  double uno = 6;
+  double yugi = 12;
+  double jorge = uno / yugi;
+  print ("jorge $jorge");
+  
+}
